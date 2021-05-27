@@ -1,5 +1,5 @@
 # ash
-A Standard Library of Da3SH Modules
+A Standard Library of Da3SH Modules.
 
 ## <a href="https://github.com/RouninMedia/ashSiteSearch" target="_blank">ashSiteSearch</a>
 
