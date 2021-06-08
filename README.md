@@ -16,7 +16,7 @@ https://www.theenglishgarden.co.uk/expert-advice/gardeners-tips/ash_tree_update_
  - ashComments (Disqus)
  - ashFeed (RSS / Atom)
  - ashSearch (SiteSearch / PDF / Multisite)
- - ashSlides (slideshow)
+ - ashSlides (slideshow - see: <a href="https://github.com/RouninMedia/navigator" target="_blank">https://github.com/RouninMedia/navigator</a>)
  - ashHackPad (hackPad)
 
  - ashCaptcha (Google reCAPTCHA)
